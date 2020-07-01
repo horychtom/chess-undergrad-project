@@ -21,7 +21,7 @@ import java.util.logging.Level;
 
 /**
  * Main controller class providing methods of GUI interaction with the model and
- * view.
+ * view. 
  */
 public class App extends Application {
 
